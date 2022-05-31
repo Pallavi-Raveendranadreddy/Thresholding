@@ -71,7 +71,7 @@ for i in range(0,9):
 ## Output
 
 ### Original Image
-![output](9.1.png)
+![output](https://github.com/Pallavi-Raveendranadreddy/Thresholding/blob/52a685aae172d459ce401e948b6b9891878f17cf/9.1.PNG)
 
 ### Global Thresholding
 ![output](9.2a.png)

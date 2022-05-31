@@ -74,15 +74,15 @@ for i in range(0,9):
 ![output](https://github.com/Pallavi-Raveendranadreddy/Thresholding/blob/52a685aae172d459ce401e948b6b9891878f17cf/9.1.PNG)
 
 ### Global Thresholding
-![output](9.2a.png)
-![output](9.2b.png)
-![output](9.2c.png)
-![output](9.2d.png)
-![output](9.2e.png)
+![output](https://github.com/Pallavi-Raveendranadreddy/Thresholding/blob/52a685aae172d459ce401e948b6b9891878f17cf/9.2a.png)
+![output](https://github.com/Pallavi-Raveendranadreddy/Thresholding/blob/52a685aae172d459ce401e948b6b9891878f17cf/9.2b.png)
+![output](https://github.com/Pallavi-Raveendranadreddy/Thresholding/blob/52a685aae172d459ce401e948b6b9891878f17cf/9.2c.png)
+![output](https://github.com/Pallavi-Raveendranadreddy/Thresholding/blob/52a685aae172d459ce401e948b6b9891878f17cf/9.2d.png)
+![output](https://github.com/Pallavi-Raveendranadreddy/Thresholding/blob/52a685aae172d459ce401e948b6b9891878f17cf/9.2e.png)
 ### Adaptive Thresholding
-![output](9.3.png)
+![output](https://github.com/Pallavi-Raveendranadreddy/Thresholding/blob/52a685aae172d459ce401e948b6b9891878f17cf/9.3.png)
 ### Optimum Global Thesholding using Otsu's Method
-![output](9.3a.png)
+![output](https://github.com/Pallavi-Raveendranadreddy/Thresholding/blob/52a685aae172d459ce401e948b6b9891878f17cf/9.3a.png)
 ## Result
 Thus the images are segmented using global thresholding, adaptive thresholding and optimum global thresholding using python and OpenCV.
 

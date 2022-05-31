@@ -74,15 +74,15 @@ for i in range(0,9):
 ![output](https://github.com/Pallavi-Raveendranadreddy/Thresholding/blob/52a685aae172d459ce401e948b6b9891878f17cf/9.1.PNG)
 
 ### Global Thresholding
-![output](https://github.com/Pallavi-Raveendranadreddy/Thresholding/blob/52a685aae172d459ce401e948b6b9891878f17cf/9.2a.png)
-![output](https://github.com/Pallavi-Raveendranadreddy/Thresholding/blob/52a685aae172d459ce401e948b6b9891878f17cf/9.2b.png)
-![output](https://github.com/Pallavi-Raveendranadreddy/Thresholding/blob/52a685aae172d459ce401e948b6b9891878f17cf/9.2c.png)
-![output](https://github.com/Pallavi-Raveendranadreddy/Thresholding/blob/52a685aae172d459ce401e948b6b9891878f17cf/9.2d.png)
-![output](https://github.com/Pallavi-Raveendranadreddy/Thresholding/blob/52a685aae172d459ce401e948b6b9891878f17cf/9.2e.png)
+![output](https://github.com/Pallavi-Raveendranadreddy/Thresholding/blob/ff13acfaa8eeebff878a554b370227a7d5af1373/9.2a.PNG)
+![output](https://github.com/Pallavi-Raveendranadreddy/Thresholding/blob/ff13acfaa8eeebff878a554b370227a7d5af1373/9.2b.PNG)
+![output](https://github.com/Pallavi-Raveendranadreddy/Thresholding/blob/ff13acfaa8eeebff878a554b370227a7d5af1373/9.2c.PNG)
+![output](https://github.com/Pallavi-Raveendranadreddy/Thresholding/blob/ff13acfaa8eeebff878a554b370227a7d5af1373/9.2d.PNG)
+![output](https://github.com/Pallavi-Raveendranadreddy/Thresholding/blob/ff13acfaa8eeebff878a554b370227a7d5af1373/9.2e.PNG)
 ### Adaptive Thresholding
-![output](https://github.com/Pallavi-Raveendranadreddy/Thresholding/blob/52a685aae172d459ce401e948b6b9891878f17cf/9.3.png)
+![output](https://github.com/Pallavi-Raveendranadreddy/Thresholding/blob/ff13acfaa8eeebff878a554b370227a7d5af1373/9.3.PNG)
 ### Optimum Global Thesholding using Otsu's Method
-![output](https://github.com/Pallavi-Raveendranadreddy/Thresholding/blob/52a685aae172d459ce401e948b6b9891878f17cf/9.3a.png)
+![output](https://github.com/Pallavi-Raveendranadreddy/Thresholding/blob/ff13acfaa8eeebff878a554b370227a7d5af1373/9.3a.PNG)
 ## Result
 Thus the images are segmented using global thresholding, adaptive thresholding and optimum global thresholding using python and OpenCV.
 
